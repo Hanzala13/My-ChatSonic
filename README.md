@@ -18,19 +18,17 @@ Welcome to the AI-ChatBot project! This chatbot utilizes state-of-the-art Natura
 * Flask/Django: Used for developing the backend server.
 * Template: Html,Css for designing the template.
 
-Installation
+# Installation
 To get started with the AI-ChatBot, follow these steps:
 
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/yourusername/AI-ChatBot.git
 cd AI-ChatBot
 Create and activate a virtual environment:
 
 bash
-Copy code
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 Install the dependencies:
