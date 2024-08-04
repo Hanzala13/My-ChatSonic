@@ -53,9 +53,9 @@ Open your browser and go to http://localhost:5500.
 
 ## Backend Response
 
-<img src="Interface3.png" width="3000" height="400">
+<img src="Interface3.png" width="5000" height="400">
 
-Usage
+## Usage
 
 Once the server is running, you can interact with the chatbot through the web interface or integrate it with supported messaging platforms. The bot can handle various types of queries and provide responses based on the implemented NLP models.
 
