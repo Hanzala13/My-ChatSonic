@@ -51,7 +51,9 @@ Open your browser and go to http://localhost:5500.
 
 <img src="interface2.png" width="700" height="350">
 
-<img src="Interface3.png" width="1500" height="400">
+## Backend Response
+
+<img src="Interface3.png" width="2300" height="400">
 
 Usage
 
