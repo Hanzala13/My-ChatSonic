@@ -53,7 +53,7 @@ Open your browser and go to http://localhost:5500.
 
 ## Backend Response
 
-<img src="Interface3.png" width="10000" height="400">
+<img src="Interface3.png" width="10000" height="300">
 
 ## Usage
 
