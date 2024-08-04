@@ -21,34 +21,31 @@ Welcome to the AI-ChatBot project! This chatbot utilizes state-of-the-art Natura
 # Installation
 To get started with the AI-ChatBot, follow these steps:
 
-Clone the repository:
+## Clone the repository:
 
-bash
-git clone https://github.com/yourusername/AI-ChatBot.git
-cd AI-ChatBot
-Create and activate a virtual environment:
+`git clone https://github.com/yourusername/AI-ChatBot.git`
+`cd AI-ChatBot`
 
-bash
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
-Install the dependencies:
+## Create and activate a virtual environment:
 
-bash
-Copy code
-pip install -r requirements.txt
-Set up the database:
+`python -m venv env`
 
-bash
-Copy code
-python manage.py migrate
-Run the server:
+source env/bin/activate
 
-bash
-Copy code
-python manage.py runserver
-Access the chatbot:
+## On Windows use 
+`env\Scripts\activate`
 
-Open your browser and go to http://localhost:8000.
+## Install the dependencies:
+
+`pip install -r requirements.txt`
+
+##Copy code
+
+`python3 app.py`
+
+##Access the chatbot:
+
+Open your browser and go to http://localhost:5500.
 
 Usage
 Once the server is running, you can interact with the chatbot through the web interface or integrate it with supported messaging platforms. The bot can handle various types of queries and provide responses based on the implemented NLP models.
@@ -68,7 +65,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or feedback, please feel free to reach out:
 
-Email: your.email@example.com
-GitHub: yourusername
+Email: hanzalaansari674@gmail.com
+GitHub: Hanzala13
 
 
