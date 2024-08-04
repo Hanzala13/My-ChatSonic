@@ -43,7 +43,7 @@ source env/bin/activate
 
 `python3 app.py`
 
-##Access the chatbot:
+## Access the chatbot:
 
 Open your browser and go to http://localhost:5500.
 
@@ -53,7 +53,7 @@ Open your browser and go to http://localhost:5500.
 
 ## Backend Response
 
-<img src="Interface3.png" width="2300" height="400">
+<img src="Interface3.png" width="3000" height="400">
 
 Usage
 
